@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/pacer",
   "title": "Pacer",
   "description": "PACER Case Locator (PCL) MCP — live US federal court case & party search on the",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/pacer",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-pacer",
