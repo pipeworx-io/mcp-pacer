@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-pacer",
-  "version": "0.1.2",
-  "description": "PACER Case Locator (PCL) MCP — live US federal court case & party search on the",
+  "version": "0.1.3",
+  "description": "PACER Case Locator (PCL) MCP — live US federal court case & party search on the user's OWN PACER account (pacer.uscourts.gov). BYO credentials.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-cf71698c19ec6a0450ae6fd57024565b4597736780777138095efeb664e800de",
-    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
+    "sourceHash": "v1-b163bfda47ea066744e0af97a3dced889359356c2ca22b6bacae31557d5ca574",
+    "sourceCommit": "f54ad77e789f27fe393978f9c080b5b18c87bb4f"
   }
 }
